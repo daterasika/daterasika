@@ -2,9 +2,9 @@
 - 👀 I’m interested in creative Things
 - 🌱 I’m currently learning 
 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...that's how did you find me !
+- 😄 Pronouns: she/her
+- ⚡ Fun fact:  
 
 <!---
 daterasika/daterasika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
